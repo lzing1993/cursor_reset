@@ -2,9 +2,9 @@
 
 ## 功能簡介
 
-一個用於重置 Cursor 編輯器設備和禁用自動更新的工具集。主要解決以下問題：
+### 一個用於重置 Cursor 編輯器設備和禁用自動更新的工具集。主要解決以下問題：
 
-重置账户后 Too many free trial accounts used on this machine 限制
+#### 重置账户后 Too many free trial accounts used on this machine 限制
 - 重置設備，解除試用限制
 - 禁用自動更新功能
 - 提供完整的備份和恢復機制
